@@ -13,7 +13,7 @@
 
 ## Installation
 
-1. Clone the repository or download the `SmartArray.h` and `SmartArray.cpp` files.
+1. Clone the repository or download the `SmartArray.h` file.
 2. Include the `SmartArray.h` file in your project.
 
 ```cpp
