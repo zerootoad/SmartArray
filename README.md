@@ -10,6 +10,7 @@
 - **Find Elements**: Check if an element exists in the array.
 - **Support for Static Arrays**: Append elements from static or dynamic arrays.
 - **Initializer List Support**: Initialize the array using an initializer list.
+- **And MUCH More!**
 
 ## Installation
 
